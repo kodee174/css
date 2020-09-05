@@ -1,0 +1,28 @@
+/* .container {
+    display: flex;
+} */
+
+.box {
+    width: 100px;
+    height: 100px;
+    color: #fff;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+    position: relative;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.fixed {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}

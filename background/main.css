@@ -1,0 +1,33 @@
+body {
+
+    background: #eee;
+  
+    font-family: sans-serif;
+  
+  }
+  .list-item {
+    color: red;
+    font-weight: bold;
+    padding: 16px;
+    margin-bottom: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: #ddd;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,91,121,1) 45%, rgba(0,212,255,1) 100%);
+  }
+  
+  .list-item-pattern {
+    background-image: url('https://365psd.com/images/home/da4/vector-seamless-abstract-pattern-background-3544.jpg');
+    background-size: 20%;
+  }
+  
+  .list-item-image {
+    background-image: url('https://wallpaperboat.com/wp-content/uploads/2019/06/minimalist-desktop-5.jpg');
+    height: 100px;
+    color: white;
+    background-size: cover;
+    background-position: 0 -200px;
+  /* background-attachment: fixed; */
+  }
